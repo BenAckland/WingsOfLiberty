@@ -1,0 +1,5 @@
+C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tasks\bin\Debug\WingsOfLiberty.Tasks.exe
+C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tasks\bin\Debug\WingsOfLiberty.Tasks.pdb
+C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tasks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tasks\obj\x86\Debug\WingsOfLiberty.Tasks.exe
+C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tasks\obj\x86\Debug\WingsOfLiberty.Tasks.pdb
