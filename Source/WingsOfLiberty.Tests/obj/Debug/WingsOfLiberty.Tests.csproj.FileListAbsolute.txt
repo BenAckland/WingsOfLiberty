@@ -3,3 +3,7 @@ C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Sourc
 C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tests\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tests\obj\Debug\WingsOfLiberty.Tests.dll
 C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tests\obj\Debug\WingsOfLiberty.Tests.pdb
+C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tests\bin\Debug\nunit.mocks.dll
+C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tests\bin\Debug\pnunit.framework.dll
+C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tests\bin\Debug\nunit.framework.xml
