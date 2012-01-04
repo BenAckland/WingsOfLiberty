@@ -7,3 +7,6 @@ C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Sourc
 C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tests\bin\Debug\nunit.mocks.dll
 C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tests\bin\Debug\pnunit.framework.dll
 C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tests\bin\Debug\Moq.dll
+C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tests\bin\Debug\Moq.pdb
+C:\Users\Ben Laptop\Dropbox\visual studio 2010\Projects\MVC\WingsOfLiberty\Source\WingsOfLiberty.Tests\bin\Debug\Moq.xml
