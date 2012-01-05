@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    @HTML.CSSLink("Site.css");
+    @HTML.jQuery();
+
+    <!-- Framework CSS -->
+    @HTML.CSSLink("screen.css")
+    @HTML.CSSLink("print.css", "print")
+    <!--[if lt IE 8]><link rel="stylesheet" href="../../blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+
+    <!-- Import fancy-type plugin for the sample page. -->
+    <link rel="stylesheet" href="/Public/stylesheets/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+  </head>
+  <body>
+    <div class="container">
+      <h1>A simple sample page</h1>
+      <hr>
+      <h2 class="alt">This sample page demonstrates a tiny fraction of what you get with Blueprint.</h2>
+      <hr>
+      @RenderBody()
+    </div>  
+  </body>
+</html>
+
